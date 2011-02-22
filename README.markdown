@@ -1,9 +1,9 @@
------------------------
+ronaldvanzuijlen.nl readme
+--------------------------
 
--ronaldvanzuijlen.nl
+#TODO
 
-TODO: 
-* Find out how markdown works
+ Find out how markdown works
 * Create Jekyll templates to: 
 **  create and display posts
 
