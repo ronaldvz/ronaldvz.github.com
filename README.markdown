@@ -5,5 +5,5 @@ ronaldvanzuijlen.nl readme
 
 * Find out how markdown works
 * Create Jekyll templates to: 
-* Create and display posts
+	* Create and display posts
 
