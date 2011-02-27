@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 166
+layout: post
+title: "'New' job"
+wordpress_url: http://www.ronaldvanzuijlen.nl/?p=166
+---
+As of today, I'm officially no longer an employee of <a title="Sogyo!" href="http://www.sogyo.nl" target="_blank">Sogyo Information Engineering</a>. Through this blog I would like to thank Sogyo for hiring me 1,5 years ago. I've learned a great deal at Sogyo, I've met quite some great programmers, attended at several useful workshops, was coached very well (special thanks to Mirjam!!)  and found my new (great!) employer. We'll keep in touch of course :).
+
+So, am I jobless then? Of course not! From this day on, I'm a proud employee of <a title="F&amp;F" href="http://www.forest-fields.nl" target="_blank">Forest &amp; Fields IT</a> in Alphen aan den Rijn. I've been working in Alphen through Sogyo for an entire year and from now on I'm officially hired by F&amp;F.
+<p style="text-align: center;"><a href="http://www.forest-fields.nl"><img class="aligncenter" title="Forest &amp; Fields IT" src="http://www.forest-fields.nl/img/layout/logo.gif" alt="" width="255" height="20" /></a></p>
