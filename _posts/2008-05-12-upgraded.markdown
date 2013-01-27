@@ -1,9 +1,0 @@
---- 
-wordpress_id: 22
-layout: post
-title: Upgraded
-wordpress_url: http://www.ronaldvanzuijlen.nl/?p=20
----
-I've just upgraded my wordpress installation, which ruined my theme settings. Ah well, will be fixing it in the coming hours. =]
-
-[edit] Make that minutes, nice job Wordpress! [/edit]
