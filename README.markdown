@@ -1,9 +1,3 @@
 ronaldvanzuijlen.nl readme
 --------------------------
-
-#TODO
-
-* Find out how markdown works
-* Create Jekyll templates to: 
-	* Create and display posts
-
+Repo contains my static webpage that hosts ronaldvanzuijlen.nl, as I'm not blogging anymore.
