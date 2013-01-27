@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 53
+layout: post
+title: Computer wishlist
+wordpress_url: http://www.ronaldvanzuijlen.nl/?p=53
+---
+It's quite a hard choice really. Now that I've seen the Mac-Book of <a title="Steph's Blog" href="http://owkee.web-log.nl/mijn_weblog/" target="_blank">Steph</a> (Congrats on your birthday Steph!!) I'm starting to talk myself into an Apple computer. I didn't really notice this, until I had a talk with my girlfriend about this. She noticed I relentlessly tried to name all benefits of having an Apple computer, without mentioning the fact that a Mac is far more expensive then a PC. This while, for my goals, it's absolutely unnecessary. At least, I think it is. To ensure I will make the correct choice, I'm creating a list of some pro's and cons I found for both platforms. But first: my personal goals with the computer I'm going to buy. <!--more-->
+
+<strong>What do I need in a computer? </strong>
+
+The computer I'm going to buy will have to suit my needs for home computing. This means it is not required to do any hard labor like programming, VM-waring, photoshopping or anything like that. Since the moment I started working I lost appetite for programming at home: my computer should fit my needs in the following:
+
+<em>Storage
+</em>Although I do like movies and music, it's not like I save everything for later. I intend to watch a movie, then delete it as I know I'll never feel the need to see it again. Nevertheless I do want my pc to have some space available. My last computer had two harddrives of 80gb and 120gb and it was quite enough. So 200gb should be the minimum I guess.
+
+<em>Power
+</em>I'm a very patient man, but not if it comes to my PC. I would like my PC to respond quickly, so a fair processor and some gigs of internal memory would be great. As I'm no longer programming or doing 'heavy stuff' at home, I believe 2gb of internal memory would be sufficient.
+
+<em>Media / Gaming
+</em>I would like my computer to be my TV too. This has been a wish of mine for the last couple of years, I had some tries with a TV-card in my last computer, but the quality was...well, it sucked. As I still live in a small room, it would be nice to get rid of my bigass high profile TV.
+
+Gaming <span style="text-decoration: line-through;">is</span> was a great way to spend my time. I still like to do this every once and a while, but it's not like it used to be. No need to buy myself a premium videocard or something. Would be nice if I could play some games on my comp, but again; not really needed.
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/lgzbhEc6VVo&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/lgzbhEc6VVo&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>
+
+If I read through the above list of wishes, I really believe I don't need a hardcore computer. Do you?
