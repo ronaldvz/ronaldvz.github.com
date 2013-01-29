@@ -3,6 +3,14 @@ body {
 	padding: 0;
 }
 
+img {
+	margin-top: 15px;
+}
+
+.right {
+	margin-left: 10px;
+}
+
 ul {
 	list-style-type: none;
 	clear: both;
