@@ -1,3 +1,7 @@
+html {
+	background-color: #1D1D1D;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -22,15 +26,35 @@ hr {
 	margin: 40px 0px;
 }
 
+a.button {
+	background-color: #CC0000;
+	border: 1px solid #550000;
+	border-radius: 6px 6px 6px 6px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	text-shadow: 0 -1px 0 #330000;
+	font-size: 11px;
+	padding: 2px 10px;
+}
+
+a.button:hover {
+	background-color: #EE0000;
+	box-shadow: 0 1px 8px #FF3333 inset;
+	text-decoration: none;
+}
+
+a.resume {
+	float: right;
+	margin-right: 20px;
+}
+
 /* *** FOOTER *** */
 
 footer {
 	background: -moz-linear-gradient(center top , #444444 0%, #1D1D1D 100%) repeat scroll 0 0 transparent;
-	height: 200px;
 	color: #fff;
-	border-top: 5px solid #FFFFFF;
-	border-bottom: 5px solid #FFF;
-	box-shadow: 0 -2px 12px #BBBBBB;
+	min-height: 250px;
+	border-top: 5px solid #D6D6D6;
 }
 
 footer ul {
