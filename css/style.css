@@ -1,28 +1,68 @@
 body {
 	margin: 0;
 	padding: 0;
+	background: url('../img/bg-dots.png');
 }
 
-img {
-	margin-top: 15px;
+body p {
+	font-family: 'Open Sans';
+	font-size: 14pt;
 }
 
-.right {
-	margin-left: 10px;
-}
-
-ul {
-	list-style-type: none;
-	clear: both;
-}
-
-li {
-	min-width: 70px;
-	min-height: 70px;
-	float: right;
+h1 {
+	font-family: 'Dancing Script';
+	font-size: 40pt;
 }
 
 hr {
 	clear: both;
 }
 
+.maintitle {
+	margin: 40px 0px;
+}
+
+/* *** FOOTER *** */
+
+footer {
+	background: -moz-linear-gradient(center top , #444444 0%, #1D1D1D 100%) repeat scroll 0 0 transparent;
+	height: 200px;
+	color: #fff;
+	border-top: 5px solid #FFFFFF;
+	border-bottom: 5px solid #FFF;
+	box-shadow: 0 -2px 12px #BBBBBB;
+}
+
+footer ul {
+	list-style-type: none;
+	margin: 20px;
+}
+
+footer ul li {
+	float: left;
+	margin-right: 10px;
+}
+
+footer ul:nth-last-child() {
+	float: right;
+}
+
+footer ul li {
+	font-family: 'Open Sans';
+	font-size: 14pt;
+	text-shadow: 2px;
+	color: #fff;
+	text-shadow: 1px;
+}
+
+footer ul li a:hover {
+	text-decoration: none;
+	color: #CC0000;
+}
+
+span.copy {
+	float: right;
+	font-family: 'Dancing Script';
+	font-size: 12pt;
+	margin-right: 30px;
+}
