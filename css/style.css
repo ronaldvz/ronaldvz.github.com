@@ -13,6 +13,15 @@ body p {
 	font-size: 14pt;
 }
 
+a {
+	color: #CC0000;
+}
+
+a:hover {
+	color: #CC0000;
+	text-decoration: underline;
+}
+
 h1 {
 	font-family: 'Dancing Script';
 	font-size: 40pt;
