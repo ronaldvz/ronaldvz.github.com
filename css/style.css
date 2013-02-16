@@ -61,6 +61,7 @@ a.resume {
 
 footer {
 	background: -moz-linear-gradient(center top , #444444 0%, #1D1D1D 100%) repeat scroll 0 0 transparent;
+	background-color: #1D1D1D;
 	color: #fff;
 	min-height: 250px;
 	border-top: 5px solid #D6D6D6;
