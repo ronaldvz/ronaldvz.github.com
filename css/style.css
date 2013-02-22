@@ -53,10 +53,6 @@ h2 {
 	color: #333333;
 }
 
-hr {
-	clear: both;
-}
-
 .maintitle {
 	margin: 40px 0px;
 }
@@ -64,20 +60,6 @@ hr {
 /**
  * Post overview (blog.html)
  **/
-.postoverview h2 {
-	font-size: 16pt;
-	text-transform: uppercase;
-	color: #CC0000;
-	margin: 0;
-	padding: 0;
-	line-height: 20px;
-	margin-right: 10px;
-}
-
-.postoverview {
-	
-}
-
 .postoverview ul {
 	list-style-type: none;
 }
@@ -105,13 +87,9 @@ hr {
 	margin-right: 5px;
 }
 
-
 /* 
  * Post (post.html)
  */
-.post {
-}
-
 .post p {
 	font-size: 11pt;
 	line-height: 22px;
@@ -121,7 +99,6 @@ hr {
 	display: block;
 	margin-bottom: 15px;
 }
-
 
 /* *** FOOTER *** */
 
