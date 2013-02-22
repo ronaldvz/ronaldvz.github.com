@@ -64,11 +64,6 @@ hr {
 /**
  * Post overview (blog.html)
  **/
-.postoverview article {
-	margin-bottom: 10px;
-	clear:both;
-}
-
 .postoverview h2 {
 	font-size: 16pt;
 	text-transform: uppercase;
@@ -79,14 +74,37 @@ hr {
 	margin-right: 10px;
 }
 
-.postoverview a { 
-	float: left;
+.postoverview {
+	
 }
-.postoverview .date {
-	color: #1D1D1D;	
-	font-size: 10pt;
-	float: left;
+
+.postoverview ul {
+	list-style-type: none;
 }
+
+.postoverview ul li {
+	font-size: 18pt;
+	margin-left: 50px;
+	margin-bottom: 5px;
+	text-transform: uppercase;
+}
+
+.postoverview .year {
+	font-family: 'Open Sans';
+	font-size: 40pt;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.postoverview .month {
+	font-family: 'Open Sans';
+	font-size: 12pt;
+	text-transform: uppercase;
+	margin-top: 15px;
+	margin-right: 5px;
+}
+
 
 /* 
  * Post (post.html)
