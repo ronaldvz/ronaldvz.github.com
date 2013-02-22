@@ -4,7 +4,9 @@
 	<div class="row-fluid post">
 		<h2>{{ page.title }}</h2>
 		<span class="date">{{ page.date | date:"%e %B %Y" | upcase }}</span>
-		{{ content }}
+		<article>
+			{{ content }}
+		</article>
 	</div>
 </div>
 
