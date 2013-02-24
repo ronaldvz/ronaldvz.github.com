@@ -1,5 +1,10 @@
-url: www.ronaldvanzuijlen.nl
+server: true
+auto: false
+#base_url: www.ronaldvanzuijlen.nl
+base_url: /
 title: Ronald van Zuijlen
 author: Ronald van Zuijlen
 markdown: rdiscount
 pygments: true
+
+exclude: ['README.md']
