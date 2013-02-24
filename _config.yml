@@ -1,4 +1,5 @@
-auto: false
-server: true
+url: www.ronaldvanzuijlen.nl
+title: Ronald van Zuijlen
+author: Ronald van Zuijlen
+markdown: rdiscount
 pygments: true
-
