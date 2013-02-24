@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wat te doen?
-location: Utrecht, NL
+location: Ina B, Utrecht, NL
 tags: 
  - keuzes
  - work
