@@ -1,3 +1,8 @@
+{
+	margin: 0;
+	padding: 0;
+}
+
 html {
 	background-color: #1D1D1D;
 }
@@ -96,8 +101,32 @@ h2 {
 }
 
 .post .date {
-	display: block;
-	margin-bottom: 15px;
+	color: gray;
+}
+
+.post .tags {
+	float: right;
+}
+
+.post article {
+	margin-top: 15px;
+}
+
+.post h1 {
+	color: #CC0000;	
+	font-family: 'Open Sans';
+	font-size: 18pt;
+	text-transform: uppercase;
+}
+
+.post h2 {
+	font-size: 14pt;
+	text-transform: none;
+}
+
+.post h3 {
+	font-size: 12pt;
+	text-transform: none;
 }
 
 /* *** FOOTER *** */
