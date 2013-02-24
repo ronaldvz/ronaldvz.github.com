@@ -129,6 +129,12 @@ h2 {
 	text-transform: none;
 }
 
+.post img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* *** FOOTER *** */
 
 footer {
