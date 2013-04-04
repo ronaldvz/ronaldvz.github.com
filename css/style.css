@@ -13,9 +13,10 @@ body {
 	background: url('../img/bg-dots.png');
 }
 
-body p {
+body p,ul,ol {
 	font-family: 'Open Sans';
-	font-size: 14pt;
+	font-size: 11pt;
+	line-height: 22px;
 }
 
 /* 
@@ -62,6 +63,12 @@ h2 {
 	margin: 40px 0px;
 }
 
+.lead p {
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 200;
+}
+
 /**
  * Post overview (blog.html)
  **/
@@ -74,6 +81,10 @@ h2 {
 	margin-left: 50px;
 	margin-bottom: 5px;
 	text-transform: uppercase;
+}
+
+.postoverview ul li img {
+	margin-bottom: 4px;
 }
 
 .postoverview .year {
@@ -95,10 +106,6 @@ h2 {
 /* 
  * Post (post.html)
  */
-.post p {
-	font-size: 11pt;
-	line-height: 22px;
-}
 
 .post .date {
 	color: gray;
@@ -112,6 +119,10 @@ h2 {
 	margin-top: 15px;
 }
 
+.post article li {
+	margin-bottom: 8px;
+}
+
 .post h1 {
 	color: #CC0000;	
 	font-family: 'Open Sans';
@@ -121,7 +132,7 @@ h2 {
 
 .post h2 {
 	font-size: 14pt;
-	text-transform: none;
+	text-transform: uppercase;
 }
 
 .post h3 {
