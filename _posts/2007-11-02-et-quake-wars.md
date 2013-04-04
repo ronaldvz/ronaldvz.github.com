@@ -6,6 +6,7 @@ tags:
 - gaming
 type: post
 published: true
+dutch: true
 ---
 Na het uitspelen van Quake 4, hetgeen ik twee weken geleden maar eens heb gedaan, begon mijn zoektocht naar een nieuwe shooter om af en toe de agressie van me af te schieten. Niet dat ik nou zo agressief ben (in tegendeel), maar af en toe effe knallen blijft leuk. In mijn mini-zoektocht hebben twee spellen de revu gepasseerd: <a href="http://www.enemyterritory.com" title="EnemyTerritory.com">Enemy Territory - Quake Wars</a> en <a href="http://www,unrealtournament3.com" title="Unreal Tournament 3.com">Unreal Tournament 3</a>. De eerste heb ik onder de loep genomen, de tweede naam heeft me sowieso al overtuigd van de leuke gameplay...<!--more-->
 
