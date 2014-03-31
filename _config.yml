@@ -1,9 +1,8 @@
-server: true
-auto: false
-#base_url: www.ronaldvanzuijlen.nl
 base_url: /
 title: Ronald van Zuijlen
 author: Ronald van Zuijlen
+description: "Personal blog of Ronald van Zuijlen."
+keywords: "developer, utrecht"
 markdown: rdiscount
 pygments: true
 

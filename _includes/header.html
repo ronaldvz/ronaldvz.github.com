@@ -1,10 +1,28 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Ronald van Zuijlen</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="keywords" content="developer utrecht blog nerd" />
-		<meta name="description" content="The personal website of Ronald van Zuijlen." />
+    <title>{{site.title}} {%if page.title %} - {{page.title}}{% endif %}</title>
+    <!-- meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if page.description %}
+      <meta name="description" content="{{page.description}}" />
+    {% else %}
+      <meta name="description" content="{{site.description}}" />
+    {% endif %}
+
+    {% if page.tags %}
+      <meta name="keywords" content="{{page.tags | join: ','}}" />
+    {% else %}
+      <meta name="keywords" content="{{site.keywords}}">
+    {% endif %}
+
+    {% if page.date %}
+      <meta http-equiv="date" content="{{page.date |date: '%A, %d  %Y %H:%M:%S GMT'}}" />
+      {% endif %}
+
+    <meta name="robots" content="{{page.index}}INDEX,{{page.follow}}FOLLOW" />i
+    <!-- end meta -->
+
 		<link rel="stylesheet" media="screen" href="{{ site.url }}/css/bootstrap.css" />
 		<link rel="stylesheet" media="screen" href="{{ site.url }}/css/bootstrap.min.css" />
 		<link rel="stylesheet" media="screen" href="{{ site.url }}/css/style.css" />
@@ -18,10 +36,10 @@
 		<div class="container">
 			<div class="row-fluid maintitle">
 				<h1 class="title">
-					{% if page.title != 'home' and page.title != 'blog' %}	
-					<a href="{{site.url}}/blog.html">Ronald van Zuijlen</a></h1>
+					{% if page.title != 'Home' and page.title != 'Blog' %}	
+          <a href="{{site.url}}/blog.html">{{site.title}}</a></h1>
 					{% else %}
-					<a href="{{site.url}}/">Ronald van Zuijlen</a></h1>
+          <a href="{{site.url}}/">{{site.title}}</a></h1>
 					{% endif %}
 			</div>
 		</div>
