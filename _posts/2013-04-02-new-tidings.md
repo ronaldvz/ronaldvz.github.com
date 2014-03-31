@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New tidings
-location: Terwijde - Utrecht, NL
+location: Utrecht, NL
 tags: 
  - work
 type: post

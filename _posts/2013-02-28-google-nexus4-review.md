@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Nexus 4: a user review"
-location: Terwijde - Utrecht, NL
+location: Utrecht, NL
 tags: 
  - phone
  - nexus4
