@@ -1,28 +1,25 @@
-desc 'create a new draft post'
-task :post do
-	require 'date'
-	title = ENV['TITLE']
-	slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
-
-	file = File.join(
-		File.dirname(__FILE__),
-		'_posts',
-		slug + '.md'
-	)
-
-	File.open(file, "w") do |f|
-		f << <<-EOS.gsub(/^    /, '')
+#Usage: rake write["title of post"]
+desc "Given a title as an argument, create a new post file"
+task :write, [:title] do |t, args|
+  filename = "#{Time.now.strftime('%Y-%m-%d')}-#{args.title.gsub(/\s/, '_').downcase}.md"
+  path = File.join("_posts", filename)
+  if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
+  File.open(path, 'w') do |file|
+    file.write <<-EOS
 ---
 layout: post
-title: #{title}
-location: Terwijde, Utrecht NL
-published: false
+title: #{args.title}
 tags: 
- - PUT TAG HERE
+date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
 dutch: false
 ---
-		EOS
-	end
+EOS
+    end
+    puts "Post created."
+    puts "Now open #{path} in vim"
+end
 
-	system ("#{ENV['EDITOR']} #{file}")
+desc "Run Jekyll in dev mode"
+task :dev do
+  system('jekyll serve --watch')
 end
