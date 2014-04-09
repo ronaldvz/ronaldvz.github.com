@@ -32,7 +32,7 @@ When working in a project I'm always confronted with several git repo's which ea
 You can find NERDTree [here](http://www.github.com/scrooloose/nerdtree).
 
 ### vim-fugitive
-Most of the codebases at work are stored in git repo. When developing I mostly find myself switching terminals to check the git status of the repository. Vim-fugitives makes this obsolete, as it offers git control from within vim! Awesome! Now, when I want to see the current git status I can just type ':Gstatus' and a neat window appears that shows me the status and even lets me interact with it. If I want to 'git add' a file I can just use the movement keys in vim to select the filename and press '-'. 
+Most of the codebases at work are stored in git repo's. When developing I mostly find myself switching terminals to check the git status of the repository. Vim-fugitives makes this obsolete, as it offers git control from within vim! Awesome! Now, when I want to see the current git status I can just type ':Gstatus' and a neat window appears that shows me the status and even lets me interact with it. If I want to 'git add' a file I can just use the movement keys in vim to select the filename and press '-'. 
 
 Vim-fugitive really saves me lots of time! Check it out [here](https://github.com/tpope/vim-fugitive).
 
