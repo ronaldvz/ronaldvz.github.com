@@ -12,7 +12,9 @@
 			{{ content }}
 		</article>
   </div>
-  {% include comments.html %}
+  {% if page.comments %}
+    {% include comments.html %}
+  {% endif %}
 </div>
 
 {% include footer.html %}

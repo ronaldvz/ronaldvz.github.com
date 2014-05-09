@@ -11,6 +11,7 @@ tags:
 type: post
 published: true
 dutch: false 
+comments: true
 ---
 
 For some time now, I'm on a mission to see if I can get myself to work with Vim for software development. At work I've been coding a lot last year. Most of it was scattered by the use of numerous editors and IDE's. I've been coding in Eclipse, IntelliJ, Sublime2, [Atom](http://www.atom.io) and good old vim. Due to the fact I've been using a lot of different editors/IDE's in a short period of time, I've noticed that I'm constantly held up because I'm searching for the correct keyboard shortcut for pieces of functionality. That sucks..that needs to change..So I set myself the goal to work with vim..always!
