@@ -4,6 +4,6 @@ author: Ronald van Zuijlen
 description: "Personal blog of Ronald van Zuijlen."
 keywords: "developer, utrecht"
 markdown: rdiscount
-pygments: true
+highlighter: pygments 
 
 exclude: ['README.md']
