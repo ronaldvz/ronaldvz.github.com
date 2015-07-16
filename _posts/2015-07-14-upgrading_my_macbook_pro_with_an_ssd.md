@@ -5,6 +5,7 @@ location: Utrecht, NL
 tags: tech macbook ssd
 date: 2015-07-14 20:10:08
 dutch: false
+comments: true
 ---
 Back when I bought my MacBook in January 2012, I immediatly bought a memory upgrade from the 4Gb that was included to 8Gb (the max for this MBP if I'm not mistaken). This was enough to keep my computing experience satisfying for a long time, up until two weeks ago. I've been tinkering with my NAS and had the need to copy loads of files from and to the NAS. I noticed my harddrive had a hard time writing and my MacBook seemed sluggish at other tasks. 
 
