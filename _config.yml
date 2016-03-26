@@ -3,7 +3,7 @@ title: Ronald van Zuijlen
 author: Ronald van Zuijlen
 description: "Personal blog of Ronald van Zuijlen."
 keywords: "developer, utrecht"
-markdown: rdiscount
+markdown: kramdown 
 highlighter: pygments 
 
 exclude: ['README.md']
