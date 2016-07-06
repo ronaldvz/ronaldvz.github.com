@@ -34,7 +34,7 @@ Another upside is the size of the powerbrick that came with it, which is very sm
 
 What I really like about the laptop is its keyboard; it has a nice feel to it and is accurate. Only thing I find myself hitting all the time is the F1 key when trying to reach for the Escape key, but that might be me getting used to a non-mac keyboard.
 
-The overall performance of the laptop is more than satisfactory. The Skylake processor with 16GB of ram and a nice SSD is a great combination that proves to work perfectly for me. I hope the combination will keep up with my for at least 4 years; that's the amount of time I hope it will last.
+The overall performance of the laptop is more than satisfactory. The Skylake processor with 16GB of ram and a nice SSD is a great combination that proves to work perfectly for me. I hope the combination will keep up with me for at least 4 years; that's the amount of time I hope it will last.
 
 As my previous laptop was a 2011 MacbookPro (non-retina), it's inevitable that I have high expectations of my new laptop's battery life. That said, I'm quite pleased with the battery life of the Lemur. It can hold up to about 5.5 to 6 hours when performing normal tasks like writing a document or browsing the web (no real demanding tasks). When gaming, the Lemur holds up to about 4 tot 4.5 hours on its battery. That's while playing Pillars of Eternity on Steam.
 
