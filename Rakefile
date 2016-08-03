@@ -12,6 +12,7 @@ title: #{args.title}
 tags: 
 date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
 dutch: false
+comments: true
 ---
 EOS
     end

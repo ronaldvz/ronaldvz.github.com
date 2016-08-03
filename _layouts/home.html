@@ -9,4 +9,30 @@ title: Home
 		</div>
 	</div>
 </div>
+
+<div class="container">
+	<div class="row-fluid">
+		<p class="lead">
+			This is the place where I post what's on my mind every now and then. I don't have an aim for writing all the time, so don't expect this blog to update weekly or monthly. You can find my posts in the overview below. 
+		</p>
+		<section class="postoverview">
+			<ul>
+				{% for post in site.posts %}
+					{% capture old_year %}{{ previous_post.date | date:"%Y" }}{% endcapture %}
+					{% capture year %}{{ post.date | date:"%Y" }}{% endcapture %}
+          <li>
+            <span class="title">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+              {% if post.dutch %}
+                <img src="/img/nl.png" />
+              {% endif %}
+            </span>
+						<span class="day">{{ post.date | date:"%d %B, %Y" }}</span> 
+					</li>
+					{% assign previous_post = post %}
+				{% endfor %}
+			</ul>
+		</section>
+	</div>
+</div>
 {% include footer.html %}
