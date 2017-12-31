@@ -30,3 +30,7 @@ In 2017 I upped my running-game by doing the the Singelloop in Utrecht (10km) an
 - Run a half marathon (and no, I will never do a whole marathon)
 
 Two years back I was on a holiday and played a game of tennis with my parents and brother. I hadn't done that for years; I stopped playing tennis years ago when I moved out and started studying. This one game of tennis on a heated hardcore lawn on Lanzarote triggered me to rethink my stance on tennis. Shortly after I decided to get back into it, but the club I wanted to get into had a member-stop. Now, 1,5 years later, I am on the top of the waiting-list and can join in from april 2018. So, in april I want to start playing tennis again.
+
+So, that's about it. Let's see what I will accomplish this coming year!
+
+To conclude: happy new year!
